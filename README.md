@@ -1,2 +1,2 @@
 # windowsoptimizer
-# kursovoi
+# пояснительная записка
